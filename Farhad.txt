@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
+qwerty
+=======
 NK: Hello! 
+>>>>>>> 39d03a7534449764473cdd4cdffaf88c5c72bdf7
